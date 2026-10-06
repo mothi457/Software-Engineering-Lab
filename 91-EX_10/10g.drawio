@@ -1,0 +1,19 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="9K5rh2EBeL8EChsIsEVY">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="6eT0-w_5dP_hMjAcx7IQ-2" parent="1" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" value="&amp;lt;&amp;lt;database&amp;gt;&amp;gt;&lt;div&gt;:MySQL&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="120" x="120" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6eT0-w_5dP_hMjAcx7IQ-3" parent="1" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" value="&amp;lt;&amp;lt;client workstation&amp;gt;&amp;gt;&lt;div&gt;:GenericPC&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="120" x="570" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6eT0-w_5dP_hMjAcx7IQ-4" parent="1" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" value="&amp;lt;&amp;lt;server&amp;gt;&amp;gt;&lt;div&gt;:Tomcat6&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="120" x="330" y="240" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
